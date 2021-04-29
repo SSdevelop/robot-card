@@ -18,14 +18,15 @@
         "prettier/prettier":[
             "error",
             {
-                "printWidth":80,
-                "trailingComma":"es5",
-                "semi":true,
-                "jsxSingleQuote":true,
-                "singleQuote":true,
-                "useTabs":true,
-                "endOfLine":"lf",
-                "jsxBracketSameLine":false
+                "tabWidth": 2,
+                "printWidth": 80,
+                "trailingComma": "es5",
+                "semi": true,
+                "jsxSingleQuote": true,
+                "singleQuote": true,
+                "useTabs": true,
+                "endOfLine": "lf",
+                "jsxBracketSameLine": false
             }
         ]
     }
